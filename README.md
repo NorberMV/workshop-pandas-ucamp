@@ -1,4 +1,4 @@
-# 👩‍🔬 Data CSVs for Pandas Workshop
+# 👩‍🔬 Pandas Workshop Data Sources
 
 Este repositorio proporciona archivos CSV de muestra como alternativas a los datos de Excel en el [Colab del Taller Pandas-Excel](https://colab.research.google.com/drive/1cL25mifmnJc5JwvVryRaowH0bU_c8bw-?usp=sharing). Úsalos con Pandas mediante `pd.read_csv('/ruta/al/archivo.csv')` después de montar Google Drive.
 
